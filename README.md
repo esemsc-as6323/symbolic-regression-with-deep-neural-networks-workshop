@@ -1,3 +1,7 @@
+<a target="_blank" href="https://colab.research.google.com/github/benmoseley/symbolic-regression-with-deep-neural-networks-workshop/blob/main/Symbolic%20regression%20with%20deep%20neural%20networks%20workshop%20-%20student.ipynb">
+  <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
+</a>
+
 # Symbolic regression with deep neural networks
 
 Written by Ben Moseley, April 2025.
